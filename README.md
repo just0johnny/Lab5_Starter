@@ -3,6 +3,10 @@ Make sure you make a PR to your own repo's main and not the class' repo!! Otherw
 
 Name: Johnny Huang
 
+Links: 
+[https://just0johnny.github.io/Lab5_Starter/expose.html](https://just0johnny.github.io/Lab5_Starter/expose.html)
+[[text](https://just0johnny.github.io/Lab5_Starter/explore.html)](https://just0johnny.github.io/Lab5_Starter/explore.html)
+
 ## Explore Pt. 3 Questions
 
 1. I don't think that a unit test testing the "message" feature of a messaging application would be a good idea, since that feature is basically the entire premise of the application. There are a lot of smaller things about a message that would need to be tested, like if it delivers the message, can you actually type it out, etc.
